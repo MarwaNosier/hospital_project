@@ -1,6 +1,6 @@
 /*header*/
 .top-header {
-  background: url("images.jpg") no-repeat;
+  background: url("images/images.jpg") no-repeat;
   background-size: cover;
   height: 100vh;
 }
